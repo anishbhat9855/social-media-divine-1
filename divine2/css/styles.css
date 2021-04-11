@@ -1,0 +1,244 @@
+.container
+{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.card-body .row .col-lg-3
+{
+    margin-left: 50px;
+}
+
+.button {
+    position: absolute;
+  top: 900px;
+  left: 800px;
+    background-color: #fff;
+    border: none;
+    color: black;
+    padding: 30px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+
+  
+.button:hover {
+    position: absolute;
+
+    background-color: rgb(165, 162, 162);
+    border: none;
+    color: #fff;
+    padding: 30px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+
+  .container .card .card-body #contact
+  {
+      position: absolute;
+      top: 1100px;
+      left: 800px;
+  }
+
+  #contact a
+  { 
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(78, 78, 78);
+  }
+
+  #contact a:hover
+  { 
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+
+  .title
+  {
+    font-size: 1.9rem;
+  }
+
+  .linker
+  {
+    text-decoration: none;
+    color: #000;
+  }
+
+  .linker:hover
+  {
+
+    color: rgb(68, 67, 67);
+  }
+
+  
+
+
+
+  
+@media only screen and (max-width: 1400px) {
+  .container .card .card-body #contact
+  {
+      position: absolute;
+      top: 900px;
+      left: 700px;
+  }
+  .button {
+    position: absolute;
+  top: 750px;
+  left: 680px;
+    background-color: #fff;
+    border: none;
+    color: black;
+    padding: 30px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+
+    
+.button:hover {
+  position: absolute;
+
+  background-color: rgb(165, 162, 162);
+  border: none;
+  color: #fff;
+  padding: 30px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+  .container .card .card-body #contact
+  {
+      position: absolute;
+      top: 750px;
+      left: 580px;
+  }
+  .button {
+    position: absolute;
+  top: 600px;
+  left: 560px;
+    background-color: #fff;
+    border: none;
+    color: black;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+
+  .button:hover {
+    position: absolute;
+  
+    background-color: rgb(165, 162, 162);
+    border: none;
+    color: #fff;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+
+  #contact a
+  { 
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(78, 78, 78);
+  }
+
+  #contact a:hover
+  { 
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+
+  .title
+  {
+    font-size: 1.3rem;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .container .card .card-body #contact
+  {
+      position: absolute;
+      top: 550px;
+      left: 420px;
+  }
+  .button {
+    position: absolute;
+  top: 450px;
+  left: 420px;
+    background-color: #fff;
+    border: none;
+    color: black;
+    padding: 30px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+
+  #contact a
+  { 
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(78, 78, 78);
+  }
+
+  #contact a:hover
+  { 
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+
+  .title
+  {
+    font-size: 0.9rem;
+  }
+
+  
+  .button:hover {
+    position: absolute;
+  
+    background-color: rgb(165, 162, 162);
+    border: none;
+    color: #fff;
+    padding: 30px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+}
